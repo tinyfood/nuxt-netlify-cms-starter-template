@@ -2,7 +2,10 @@
   <img width="386" src="https://raw.githubusercontent.com/renestalder/nuxt-netlify-cms-starter-template/master/docs/nuxt-netlify.svg?sanitize=true" alt="Nuxt Netlify Logo" />
 </p>
 
-# Nuxt.js + Netlify CMS starter template
+<!-- HTML snippet -->
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit">
+  <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify">
+</a>
 
 [![Build Status](https://travis-ci.org/renestalder/nuxt-netlify-cms-starter-template.svg?branch=master)](https://travis-ci.org/renestalder/nuxt-netlify-cms-starter-template)
 
