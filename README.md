@@ -3,8 +3,8 @@
 </p>
 
 <!-- HTML snippet -->
-<a href="https://app.netlify.com/start/deploy?repository=https://github.com/netlify/netlify-statuskit">
-  <img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify">
+<a href="https://app.netlify.com/start/deploy?repository=https://github.com/tinyfood/tinyfood-app-template">
+  <img src="https://www.netlify.com/img/deploy/button.svg" alt="Create a Private Tiny Food Instance Now">
 </a>
 
 [![Build Status](https://travis-ci.org/renestalder/nuxt-netlify-cms-starter-template.svg?branch=master)](https://travis-ci.org/renestalder/nuxt-netlify-cms-starter-template)
